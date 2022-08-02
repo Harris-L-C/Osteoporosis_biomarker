@@ -1,0 +1,20 @@
+,database,Characteristics,State,Organism,Tissue,RNAdeg,batch
+GSM1550052,GSE63446,high_BMD,Healthy female,Homo sapiens,Peripheral blood monocytes,-0.00184527,2012/5/17
+GSM1550053,GSE63446,high_BMD,Healthy female,Homo sapiens,Peripheral blood monocytes,-0.006124838,2012/5/17
+GSM1550054,GSE63446,high_BMD,Healthy female,Homo sapiens,Peripheral blood monocytes,0.009869462,2012/5/17
+GSM1550055,GSE63446,high_BMD,Healthy female,Homo sapiens,Peripheral blood monocytes,-0.0351729,2012/5/17
+GSM1550056,GSE63446,high_BMD,Healthy female,Homo sapiens,Peripheral blood monocytes,-0.031036354,2012/5/17
+GSM1550057,GSE63446,low_BMD,Healthy female,Homo sapiens,Peripheral blood monocytes,-0.001411601,2012/5/17
+GSM1550058,GSE63446,low_BMD,Healthy female,Homo sapiens,Peripheral blood monocytes,-0.013092228,2012/5/17
+GSM1550059,GSE63446,low_BMD,Healthy female,Homo sapiens,Peripheral blood monocytes,-0.005273205,2012/5/17
+GSM1550060,GSE63446,low_BMD,Healthy female,Homo sapiens,Peripheral blood monocytes,0.024989406,2012/5/17
+GSM1550061,GSE63446,low_BMD,Healthy female,Homo sapiens,Peripheral blood monocytes,-0.035589265,2012/5/17
+GSM1571226,GSE64433,low_BMD,postmenopausal osteopenia,Homo sapiens,whole blood,NA,NA
+GSM1571227,GSE64433,low_BMD,postmenopausal osteopenia,Homo sapiens,whole blood,NA,NA
+GSM1571228,GSE64433,low_BMD,postmenopausal osteopenia,Homo sapiens,whole blood,NA,NA
+GSM1571229,GSE64433,low_BMD,postmenopausal osteoporosis,Homo sapiens,whole blood,NA,NA
+GSM1571230,GSE64433,low_BMD,postmenopausal osteoporosis,Homo sapiens,whole blood,NA,NA
+GSM1571231,GSE64433,low_BMD,postmenopausal osteoporosis,Homo sapiens,whole blood,NA,NA
+GSM2419971,GSE91033,high_BMD,serum_morning_normal,Homo sapiens,serum,NA,NA
+GSM2419972,GSE91033,low_BMD,serum_morning_osteopenia,Homo sapiens,serum,NA,NA
+GSM2419973,GSE91033,low_BMD,serum_morning_osteoporosis,Homo sapiens,serum,NA,NA
