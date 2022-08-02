@@ -1,0 +1,21 @@
+SourceName,database,Characteristics,Tissue,Platforms,State,Age,Organism,SetType
+GSM179758,GSE7429,high_BMD,whole blood B cells,GPL96,postmenopause,57,Homo sapiens,test
+GSM179759,GSE7429,high_BMD,whole blood B cells,GPL96,postmenopause,57,Homo sapiens,test
+GSM179760,GSE7429,high_BMD,whole blood B cells,GPL96,postmenopause,57,Homo sapiens,test
+GSM179761,GSE7429,high_BMD,whole blood B cells,GPL96,postmenopause,60,Homo sapiens,test
+GSM179762,GSE7429,high_BMD,whole blood B cells,GPL96,postmenopause,58,Homo sapiens,test
+GSM179763,GSE7429,high_BMD,whole blood B cells,GPL96,postmenopause,54,Homo sapiens,test
+GSM179764,GSE7429,high_BMD,whole blood B cells,GPL96,postmenopause,54,Homo sapiens,test
+GSM179765,GSE7429,high_BMD,whole blood B cells,GPL96,postmenopause,58,Homo sapiens,test
+GSM179766,GSE7429,high_BMD,whole blood B cells,GPL96,postmenopause,55,Homo sapiens,test
+GSM179767,GSE7429,high_BMD,whole blood B cells,GPL96,postmenopause,58,Homo sapiens,test
+GSM179768,GSE7429,low_BMD,whole blood B cells,GPL96,postmenopause,58,Homo sapiens,test
+GSM179769,GSE7429,low_BMD,whole blood B cells,GPL96,postmenopause,56,Homo sapiens,test
+GSM179770,GSE7429,low_BMD,whole blood B cells,GPL96,postmenopause,58,Homo sapiens,test
+GSM179771,GSE7429,low_BMD,whole blood B cells,GPL96,postmenopause,59,Homo sapiens,test
+GSM179772,GSE7429,low_BMD,whole blood B cells,GPL96,postmenopause,58,Homo sapiens,test
+GSM179773,GSE7429,low_BMD,whole blood B cells,GPL96,postmenopause,60,Homo sapiens,test
+GSM179774,GSE7429,low_BMD,whole blood B cells,GPL96,postmenopause,59,Homo sapiens,test
+GSM179775,GSE7429,low_BMD,whole blood B cells,GPL96,postmenopause,56,Homo sapiens,test
+GSM179776,GSE7429,low_BMD,whole blood B cells,GPL96,postmenopause,59,Homo sapiens,test
+GSM179777,GSE7429,low_BMD,whole blood B cells,GPL96,postmenopause,56,Homo sapiens,test
