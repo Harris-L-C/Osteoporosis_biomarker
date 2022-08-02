@@ -1,0 +1,13 @@
+,title,organism,cell type,characteristics,group2,characteristics,group,platform,contact_city
+GSM5354698,Ost3_Control_rep1,Homo sapiens,human mesenchymal stem cell,3d osteogenesis,control,3d,control_3d,GPL21185,hangzhou
+GSM5354699,Ost3_Control_rep2,Homo sapiens,human mesenchymal stem cell,3d osteogenesis,control,3d,control_3d,GPL21185,hangzhou
+GSM5354700,Ost3_Control_rep3,Homo sapiens,human mesenchymal stem cell,3d osteogenesis,control,3d,control_3d,GPL21185,hangzhou
+GSM5354701,Ost3_TNFa_rep1,Homo sapiens,human mesenchymal stem cell,3d osteogenesis,TNFa (100ng/mL),3d,TNFa (100ng/mL)_3d,GPL21185,hangzhou
+GSM5354702,Ost3_TNFa_rep2,Homo sapiens,human mesenchymal stem cell,3d osteogenesis,TNFa (100ng/mL),3d,TNFa (100ng/mL)_3d,GPL21185,hangzhou
+GSM5354703,Ost3_TNFa_rep3,Homo sapiens,human mesenchymal stem cell,3d osteogenesis,TNFa (100ng/mL),3d,TNFa (100ng/mL)_3d,GPL21185,hangzhou
+GSM5354704,Ost4_Control_rep1,Homo sapiens,human mesenchymal stem cell,4d osteogenesis,control,4d,control_4d,GPL21185,hangzhou
+GSM5354705,Ost4_Control_rep2,Homo sapiens,human mesenchymal stem cell,4d osteogenesis,control,4d,control_4d,GPL21185,hangzhou
+GSM5354706,Ost4_Control_rep3,Homo sapiens,human mesenchymal stem cell,4d osteogenesis,control,4d,control_4d,GPL21185,hangzhou
+GSM5354707,Ost4_TNFa_rep1,Homo sapiens,human mesenchymal stem cell,4d osteogenesis,TNFa (100ng/mL),4d,TNFa (100ng/mL)_4d,GPL21185,hangzhou
+GSM5354708,Ost4_TNFa_rep2,Homo sapiens,human mesenchymal stem cell,4d osteogenesis,TNFa (100ng/mL),4d,TNFa (100ng/mL)_4d,GPL21185,hangzhou
+GSM5354709,Ost4_TNFa_rep3,Homo sapiens,human mesenchymal stem cell,4d osteogenesis,TNFa (100ng/mL),4d,TNFa (100ng/mL)_4d,GPL21185,hangzhou
